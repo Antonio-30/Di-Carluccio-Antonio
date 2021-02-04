@@ -1,3 +1,9 @@
+#lavoro svolto da:
+#Antonio Di Carluccio
+#Lorenzo Di Gennaro
+#Andrea Gurrado
+#Renato Montella
+
 import guizero
 import string
 import numpy as np
