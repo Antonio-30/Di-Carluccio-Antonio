@@ -1,0 +1,12 @@
+regole del gioco: 
+si gioca 1 contro 1. Due possibilità: contro un altro giocatore o contro il computer
+- regole contro il computer:
+1) Si gioca a tempo. Un minuto di tempo per trovare tutte le parole dei vari livelli (1 minuto ogni livello). Si hanno 2 vite. 
+2) Vari livelli: primo livello bisogna trovare tutte le parole che hanno una vocale che viene estratta casualmente all'inizio del turno; secondo livello bisogna trovare tutte le parole che rientrano in un argomento, sempre scelto casualmente all'inizio; terzo livello bisogna trovare un minimo di parole (ad esempio "trovare 50 parole")  
+- regole contro un altro giocatore:
+1) Si gioca a tempo. Un minuto di tempo.
+2) Trovare tutte le parole possibili. Le parole hanno vari punteggi, ad esempio le parole formate dalle 2 alle 4 lettere valgono 2 punti, le parole formate dalle 5 alle 8 valgono 5 punti, e infine le parole formate da 9 o più lettere valgono 10 punti. Vince chi ha più punti.
+
+L'interfaccia deve avere una tabella di forma quadrata (5x5 o 6x6 secondo me) con sopra una casella con all'interno il tempo. Quando si gioca contro il computer si hanno delle caselle di testo di fianco alla tabella.
+Quando, invece, si gioca contro un altro giocatore ci sarà un'unica casella di testo dove verranno inserite le parole e il loro valore; inotre giocando con un altro giocatore si avrà una casella in alto che tiene conto del punteggio totale.
+ 
